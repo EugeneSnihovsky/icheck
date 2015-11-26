@@ -20,10 +20,15 @@
   ],
   "main": [
     "./icheck.min.js",
-    "./skins/all.css"
+    "./dist/flat.css",
+    "./dist/futurico.css",
+    "./dist/line.css",
+    "./dist/minimal.css",
+    "./dist/polaris.css",
+    "./dist/square.css"
   ],
   "dependencies": {
-    "jquery": ">=1.7"
+    "jquery": "*"
   },
   "ignore": [
     ".gitignore",
